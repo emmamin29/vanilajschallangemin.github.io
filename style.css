@@ -1,0 +1,17 @@
+
+
+
+.hidden{
+    display : none;
+}
+
+#clock{
+    width:80%;
+    color:aquamarine;
+    font-size: large;
+}
+
+body{
+    background-size: cover;
+}
+
